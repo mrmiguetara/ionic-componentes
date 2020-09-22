@@ -1,0 +1,8 @@
+{
+  "name": "componentes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d3fb4065"
+}
