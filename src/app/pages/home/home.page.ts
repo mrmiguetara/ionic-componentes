@@ -18,6 +18,16 @@ export class HomePage implements OnInit {
       name: 'Alert',
       icon: 'build-outline',
       redirectTo: '/alert'
+    },
+    {
+      name: 'Avatar',
+      icon: 'beaker-outline',
+      redirectTo: '/avatar'
+    },
+    {
+      name: 'Button',
+      icon: 'beaker-outline',
+      redirectTo: '/button'
     }
   ]
 
